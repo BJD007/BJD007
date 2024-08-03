@@ -12,12 +12,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhaskarjdutta/)
 - ⚡ Fun fact: **I'm a startup veteran with a passion for solving complex technical challenges!**
 
-<p align="left"> 
-    <a href="https://twitter.com/your-twitter-handle" target="blank">
-        <img src="https://img.shields.io/twitter/follow/your-twitter-handle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-    </a> 
-</p>
-
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BJD007&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
