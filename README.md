@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BJD007&label=Profile%20views&color=0e75b6&style=flat" alt="BJD007" /> </p>
 
-### Hi there 👋
+### Hi there 🚀
 
-- 👀 I'm interested in **AI, Radar Technology, and Autonomous Systems**
-- 🌱 I'm currently working on **Artificial General Intelligence and Artificial Super Intelligence**
-- 💞️ I'm looking to collaborate on **Innovative AI Projects**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhaskarjdutta/)
-- ⚡ Fun fact: **I'm a startup veteran with a passion for solving complex technical challenges!**
+- 🎯 I'm focused on **AI, Radar Technology, and Autonomous Systems**
+- 🔬 I'm currently researching **Artificial General Intelligence and Artificial Super Intelligence**
+- 🤝 I'm eager to collaborate on **Innovative AI Projects**
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhaskarjdutta/)
+- 💡 Fun fact: **I'm a startup veteran with a passion for solving complex technical challenges!**
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BJD007&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -57,6 +57,3 @@
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
     </a>
 </p>
-
-
-
