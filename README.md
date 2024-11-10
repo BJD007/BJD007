@@ -6,7 +6,7 @@
 
 ### Hi there 🚀
 
-- 🎯 I'm focused on ** Embodied AI, Radar Technology, and Autonomous Systems **
+- 🎯 I'm focused on **Embodied AI, Radar Technology, and Autonomous Systems**
 - 🔬 I'm currently researching **Artificial General Intelligence, Artificial Super Intelligence and Blockchain**
 - 🤝 I'm eager to collaborate on **Innovative AI related Projects**
 - 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhaskarjdutta/)
